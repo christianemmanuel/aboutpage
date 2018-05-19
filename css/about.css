@@ -1,0 +1,105 @@
+div#slider_section {
+    margin-top: 0;
+/*     top: 0;
+    width: 80%;
+    right: 0;
+    position: absolute !important; */
+}
+/* .main_footer {
+    height: 329px;
+    display: block;
+    width: 100%;
+    position: relative;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    background: #fff;
+    z-index: -1;
+} */
+div#slider_section .main_header_innperpage {
+    padding-top: 230px;
+    padding-bottom: 40px;
+    margin-bottom: 60px;
+}
+div#slider_section .main_header_innperpage h3 {
+    font-size: 46px;
+    margin-top: 75px;
+    margin-bottom: 35px;
+}
+div#slider_section .main_header_innperpage .fp-tableCell {
+	/* display: block !important; */
+}
+.section {
+	background-color: #ffffff;
+}
+.section_wrapper {
+	/* padding-top: 100px; */
+}
+
+.flexbox_container_auto {
+    position: relative;
+    display: -webkit-flex;
+    display: -moz-flex;
+    display: -ms-flexbox;
+    display: -ms-flex;
+    display: flex;
+    -webkit-flex-direction: row;
+    -moz-flex-direction: row;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -webkkit-flex-wrap: wrap;
+    height: 100%;
+}
+h4.gothic {
+	font-family: "league-gothic";    
+    font-size: 32px;
+    line-height: 1.1em
+}
+
+.henry_timeline_sidebar {
+    background-color: #0097e6;
+    padding: 25px;
+    width: 100%;
+    min-width: 23%;
+    max-width: 23%;
+    display: block;
+}
+.henry_timeline_sidebar,
+.henry_timeline_sidebar h4,
+.henry_timeline_sidebar strong,
+.henry_timeline_sidebar p {
+	color: #ffffff;
+}
+.henry_timeline_sidebar p {
+    font-size: 12px;
+    font-weight: 300;
+    line-height: 1.5em;
+}
+.henry_timeline_sidebar strong {
+    font-size: 18px;
+    font-weight: bold;
+    font-family: "Helvetica";
+    line-height: 2.2em;
+}
+.about_img {
+    width: 100%;
+    min-width: 35.9%;
+    max-width: 35.9%;
+    display: block;
+}
+.about_main_content {
+    width: 100%;
+    min-width: 41.1%;
+    max-width: 41.1%;
+    display: block;
+}
+.about_main_detail img {
+    width: 60%;
+}
+.about_main_detail {
+    padding: 20px 30px;
+}
+.about_main_detail p {
+    font-size: 16px;
+}
